@@ -13,8 +13,10 @@ labels:
 summary: Collaborative project among multiple engineering disciplines.
 ---
 
-<img class="ui medium left floated rounded image" src="../images/UHDT2.png">
-<img class="ui medium right floated rounded image" src="../images/UHDT3.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/UHDT3.png">
+</div>
+
 
 I first joined the University of Hawaii Drone Technologies (UHDT) in the fall of 2018. I started out on the team as a member of the Image Processing Subsystem. This was the year that I first became acquainted with python and Machine Learning. 
 
