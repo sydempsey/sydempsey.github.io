@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "sydney-dempsey",
         "url": "https://www.linkedin.com/in/sydney-dempsey-b76634170/"
-      },
-      {
-        "network": "instagram",
-        "username": "dem.sydz",
-        "url": "https://www.instagram.com/dem.sydz/"
       }
     ]
   },
@@ -100,6 +95,7 @@
       ]
     }
   ],
+  
   "activities": [
     {
       "organization": "Eta Kappa Nu (HKN)",
