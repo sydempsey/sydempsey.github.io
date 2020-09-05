@@ -10,8 +10,6 @@ labels:
   - Robotics
 ---
 
-#<img class="ui large middle floated image" src="../images/silicon.jpeg">
-
 
 
 ## Where It All Began
