@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/xonix1
+image: images/xonix1.png
 title: Xonix
 permalink: projects/Xonix
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ summary: My partner and I developed a game using C++ as a final project in EE205
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/xonix2">
+  <img class="ui image" src="../images/xonix2.png">
 </div>
 
 Xonix is a game that my partner and I recreated in EE205. I had played the game growing up, and wanted to see how object-oriented programming could be used to replicate a child-hood memory.
