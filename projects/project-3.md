@@ -10,7 +10,7 @@ labels:
   - SQL
   - Web API
   - Angular CLI
-summary: My team and I designed, programmed, and installed a queuing and check-in system for the Animal Quarantine Facility at the Daniel K. Inouye International Airport.
+summary: My team and I designed, programmed, and installed a new queuing and check-in system for the Animal Quarantine Facility at the Daniel K. Inouye International Airport.
 ---
 
 <div class="ui medium rounded images">
