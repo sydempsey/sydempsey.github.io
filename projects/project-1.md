@@ -14,7 +14,7 @@ labels:
 summary: My partner and I developed a game using C++ as a final project in EE205.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/xonix2.png">
 </div>
 
