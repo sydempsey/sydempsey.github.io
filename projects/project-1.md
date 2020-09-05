@@ -14,9 +14,8 @@ labels:
 summary: My partner and I developed a game using C++ as a final project in EE205.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/xonix2.png">
-</div>
+<img class="ui medium left floated rounded image" src="../images/xonix2.png">
+
 
 Xonix is a game that my partner and I recreated in EE205. I had played the game growing up, and wanted to see how object-oriented programming could be used to replicate a child-hood memory.
 
