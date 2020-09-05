@@ -29,8 +29,10 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Creative Media",
       "keywords": [
+        "Graphic Design",
+        "Videography"
       ]
     },
     {
@@ -39,11 +41,8 @@
       ]
     },
     {
-      "name": "Creative Media",
+      "name": "Software Engineering",
       "keywords": [
-        "Adobe Suite",
-        "Photography",
-        "Graphic Design"
       ]
     }
   ],
@@ -66,7 +65,8 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "CSV"
       ]
     }
   ],
@@ -91,7 +91,20 @@
       "endDate": "Present",
       "highlights": [
         "Quality assurance support on LumiSight apps",
-        "Assisting on COVID-related projects"
+        "Assisting on COVID-related projects",
+        "Interned from January to August 2020"
+      ]
+    },
+    {
+      "company": "UH Manoa Admissions Office",
+      "position": "Social Media Coordinator",
+      "website": "https://manoa.hawaii.edu/admissions/",
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-15",
+      "summary": "Ran the instagram and facebook accounts for the admissions office. I also created the informational and promotional videos for incoming freshman",
+      "highlights": [
+        "Filmed events",
+        "Answer questions sent in by potential students"
       ]
     }
   ],
@@ -124,7 +137,13 @@
       "title": "Regents Scholarship",
       "date": "2017-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming freshmen who completed a rigorous high school curriculum with a minimum overall GPA of 3.5."
+      "summary": "Scholarships awarded to incoming freshmen who completed a rigorous high school curriculum and demonstrated leadership qualities."
+    },
+    {
+      "title": "Harriet Bouslog Scholarship",
+      "date": "2018-Present",
+      "awarder": "ILWU Local 142",
+      "summary": "A renewable scholarship given to UH students who have had a family member in the ILWU."
     }
   ],
   "references": [
