@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/UHDT1.png
+title: UH Drone Technologies
+permalink: projects/UHDT
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-09-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Python
+  - UAV
+  - Machine Learning
+summary: Collaborative project among multiple engineering disciplines.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium left floated rounded image" src="../images/UHDT2.png">
+<img class="ui medium right floated rounded image" src="../images/UHDT3.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I first joined the University of Hawaii Drone Technologies (UHDT) in the fall of 2018. I started out on the team as a member of the Image Processing Subsystem. This was the year that I first became acquainted with python and Machine Learning. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The team is comprised of electrical, civil, and mechanical engineering majors. Our goal is to prepare for the annual competition over the summer in Maryland. The competition is essentially a search-and-rescue mission, where we are scored on our ability to navigate waypoints autonomously, take photos during our flight, and detect/characterize targets from the images and submit all of the information to the judges via an interoperability network. You can learn more about the project [here](http://rip.eng.hawaii.edu/research/uhdt/).
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In my time with UHDT, I have become the subsystem leader for the Image Processing subsystem. I’m still learning and trying to improve upon our previous methods of object character recognition, but I have also developed my soft-skills in delegating tasks, presenting, and leading a small team.
