@@ -13,7 +13,7 @@ labels:
 summary: Collaborative project among multiple engineering disciplines.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui medium center rounded images">
   <img class="ui image" src="../images/UHDT3.png">
 </div>
 
