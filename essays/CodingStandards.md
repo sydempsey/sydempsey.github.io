@@ -29,7 +29,7 @@ I have followed everything Ross taught me about formatting and syntax until abou
 
 ## Foundation of Collaboration
 
-Coding standards are a necessary etiquette that should be followed. Of course formatting may not be important to the computer, but if the program is built using a well-known foundation (formatting), then others will be able to focus on what the program is doing. Time won’t be wasted trying to decipher where a function begins and ends. Coding standards may seem like a hassle, but they encourage collaboration and set up a fundamental foundation that allows developers to focus on what they’re trying to accomplish with the provided support.
+Coding standards are a necessary etiquette that should be followed. Of course formatting may not be important to the computer, but if the program is built using a well-known foundation (formatting), then others will be able to focus on <i>what</i> the program is doing. Time won’t be wasted trying to decipher where a function begins and ends. Coding standards may seem like a hassle, but they encourage collaboration and set up a fundamental foundation that allows developers to focus on what they’re trying to accomplish with the provided support.
 
 
 
