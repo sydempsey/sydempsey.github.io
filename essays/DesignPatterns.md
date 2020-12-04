@@ -19,7 +19,7 @@ As a child, I used to be mesmerized by the flower quilts my Grammi would create.
 
 Similar to following a quilting pattern, designing a web application or a game can also rely on basic patterns to make a complex development process much simpler. In software engineering, design patterns do not offer a specific solution, but rather provide a general template that can be implemented in a variety of different ways. Although they aren’t language specific and don’t provide a complete copy-able method, they provide proven long-term solutions to common problems that programmers run into during the development process.
 
-<img class="ui medium middle floated image" src="../images/space.png">
+<img class="ui medium middle floated image" align = "right" src="../images/space.png">
 
 ## Using Patterns for Game Development
 
