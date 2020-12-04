@@ -11,8 +11,6 @@ labels:
   - Observer
 ---
 
-<img class="ui large middle floated image" src="../images/space.png">
-
 ## Grammi’s Quilts
 
 As a child, I used to be mesmerized by the flower quilts my Grammi would create. Upon inspection, I started to notice patterns in her designs. A single quilt would contain around 40 squares, and each square would be made up of rotated triangles to form the flower petals. Although the quilts looked complex in their entirety, they were quite simple to create when broken up into smaller pieces.
@@ -20,6 +18,8 @@ As a child, I used to be mesmerized by the flower quilts my Grammi would create.
 ## The Savior For Developers
 
 Similar to following a quilting pattern, designing a web application or a game can also rely on basic patterns to make a complex development process much simpler. In software engineering, design patterns do not offer a specific solution, but rather provide a general template that can be implemented in a variety of different ways. Although they aren’t language specific and don’t provide a complete copy-able method, they provide proven long-term solutions to common problems that programmers run into during the development process.
+
+<img class="ui medium middle floated image" src="../images/space.png">
 
 ## Using Patterns for Game Development
 
