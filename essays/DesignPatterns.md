@@ -5,8 +5,8 @@ title: Complexity Made Easier With Patterns
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
-  - DesignPatterns
-  - GameDevelopment
+  - Design Patterns
+  - Game Development
   - Singleton
   - Observer
 ---
