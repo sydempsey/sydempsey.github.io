@@ -38,7 +38,7 @@ To make the landing/home page more friendly and representative of the state of H
 
 
 ### Analytics Page
-I was also tasked with including the ability to delete feedback. This feature would be useful if a suggested feature or improvement of the application had been implemented. I also handled organizing the feedback data submitted by users to make the data easier to read. I used underscore to parse the data, and [react minimal pie chart](https://www.npmjs.com/package/react-minimal-pie-chart) to display the data as shown in the image below.
+I was tasked with including the ability to delete feedback. This feature would be useful if a suggested feature or improvement of the application had been implemented. I also handled organizing the feedback data submitted by users to make the data easier to read. I used underscore to parse the data, and [react minimal pie chart](https://www.npmjs.com/package/react-minimal-pie-chart) to display the data as shown in the image below.
 
 <img class="ui large centered image" src="../images/analytics2.png">
 
