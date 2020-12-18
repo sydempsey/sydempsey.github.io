@@ -13,9 +13,7 @@ labels:
 summary: My team and I designed, programmed, and installed a new queuing and check-in system for the Animal Quarantine Facility at the Daniel K. Inouye International Airport.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/cimp2.png">
-</div>
+<img class="ui large centered image" src="../images/cimp2.png">
 
 
 In the Spring 2020 semester, I worked alongside five other computer engineering students to develop a queuing solution for the Animal Quarantine Facility at the Daniel K. Inouye International Airport. Our team was mentored by industry professionals from [DataHouse](https://www.datahouse.com/).
