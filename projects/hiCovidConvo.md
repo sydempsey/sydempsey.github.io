@@ -44,4 +44,4 @@ I was also tasked with parsing the feedback data submitted by users to make the 
 
 
 ## Learning Outcome
-This final project was an accumulation of the design concepts and technology stack that I was introduced to during the class. It was a great learning experience to apply what I had learned and work collaboratively to develop the web application. My greatest take-away from the project was working collaboratively with my team to divide the tasks. With the semester being conducted online, the team needed to work harder on our communication to ensure that we were proud of our final product.
+This final project was an accumulation of the design concepts and technology stack that I was introduced to during the class. My greatest takeaway from the project was being able to create an application from start to finish and to become comfortable with the struggle that comes along with development. With the semester being conducted online, the team needed to work harder on our communication to ensure that we were proud of our final product. It was a great learning experience to apply what I had learned and work collaboratively to develop the web application.
