@@ -11,7 +11,7 @@ labels:
   - SFML
   - C++
   - Game
-summary: My partner and I developed a game using C++ as a final project in EE205.
+summary: My partner and I developed a game using C++ as a final project for our EE 205 class.
 ---
 
 <img class="ui medium left floated rounded image" src="../images/xonix2.png">
