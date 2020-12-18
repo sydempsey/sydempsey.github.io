@@ -10,7 +10,7 @@ labels:
   - Python
   - UAV
   - Machine Learning
-summary: Collaborative project among multiple engineering disciplines.
+summary: Collaborative search and rescue project among multiple engineering disciplines.
 ---
 
 
