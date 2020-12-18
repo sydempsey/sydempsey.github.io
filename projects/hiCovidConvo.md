@@ -18,11 +18,19 @@ summary: Worked alongside peers to develop a Chatbot as a final project for our 
   <img class="ui image" src="../images/covid.png">
 </div>
 
+## Project Goals
+[HiCovidConvo](https://cece-convo.xyz/) is a deployed web application that my team and I developed for our ICS 314 class. The goal of the application was to implement a chat-bot to answer COVID-19 related questions and direct users to sites where they could find more information. 
 
-HiCovidConvo is a deployed web application that my team and I developed for our ICS 314 class. The goal of the application was to implement a chat-bot to answer COVID-19 related questions and direct users to sites where they could find more information. 
+## Development
+The application was implemented using [Semantic UI](https://semantic-ui.com/) React with Meteor for the front-end. The database was managed using MongoDB, and the chat-bot was created through the use of Google's Cloud Service, [Dialogflow](https://cloud.google.com/dialogflow/docs). 
 
-The application was implemented using [Semantic UI](https://semantic-ui.com/) React with Meteor for the front-end. The database was managed using MongoDB, and the chat-bot was created through the use of Google's cloud service, [Dialogflow](https://cloud.google.com/dialogflow/docs). 
+Our team worked collaboratively by using a GitHub organization to manage tasks and stay on track. You can access our repository [here](https://github.com/hi-covid-convo/hi-covid-convo), and learn more details about the application [here](https://hi-covid-convo.github.io/#deployment). 
 
+## Contributions
+My first task for the project was figuring out how the team was going to implement the chat-bot. After conducting research, that's when I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
+<div class="ui medium center rounded images">
+  <img class="ui image" src="../images/dialogflow.png">
+</div>
 
 
  I also gained real experience in using Semantic UI React with Meteor to create a deployed application.
