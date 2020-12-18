@@ -24,7 +24,7 @@ At the beginning of the year, I was in a team of seven for a web-application pro
 
 
 ## As One Door Closes
-Upon hearing the term software engineering, my first impression was how technical it sounded. As my first software engineering class draws to a close, I can safely say that my initial conclusion was accurate. Due to the ever changing applications of technology, it is impossible to become an expert after pursuing a career in this field. However, it is possible to master fundamental development concepts that can be applied to a multitude of projects. I’m nowhere near an expert of these concepts after completing the course, but I am grateful to have been introduced to them. This class encompassed many valuable techniques that I am excited to apply in future projects. 
+Upon hearing the term software engineering, my first impression was that it sounded like a complex field. As my first software engineering class draws to a close, I can safely say that my initial conclusion was accurate. Due to the ever changing applications of technology, it is impossible to become an expert after pursuing a career in this field. However, it is possible to master fundamental development concepts that can be applied to a multitude of projects. I’m nowhere near an expert of these concepts after completing the course, but I am grateful to have been introduced to them. This class encompassed many valuable techniques that I am excited to apply in future projects. 
 
 
 
