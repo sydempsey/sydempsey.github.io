@@ -25,7 +25,7 @@ Our team worked collaboratively by using a GitHub organization to manage tasks a
 ## Contributions
 
 ### Dialogflow Chatbot
-My first task for the project was figuring out how the team was going to implement the chat-bot. After conducting research, that's when I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
+My first task for the project was figuring out how the team was going to implement the chat-bot. While conducting research, my team and I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
 
 <img class="ui large centered image" src="../images/dialogflow.png">
 
@@ -44,4 +44,4 @@ I was also tasked with parsing the feedback data submitted by users to make the 
 
 
 ## Learning Outcome
-This final project was an accumulation of the design concepts and technology stack that I was introduced to during the class. My greatest takeaway from the project was being able to create an application from start to finish and to become comfortable with the struggle that comes along with development. With the semester being conducted online, the team needed to work harder on our communication to ensure that we were proud of our final product. Overall, it was a great learning experience to apply what I had learned and work collaboratively to develop the web application.
+This final project was an accumulation of the design concepts and technology stack that I was introduced to during the class. My greatest takeaway from the project was being able to create an application from start to finish and to become comfortable with the struggle that comes along with development. With the semester being conducted online, the team put in a lot of effort to communicate often to ensure that the project was making good progress. Overall, it was a great learning experience to apply what I had learned and work collaboratively to develop the web application.
