@@ -27,9 +27,18 @@ The application was implemented using [Semantic UI](https://semantic-ui.com/) Re
 Our team worked collaboratively by using a GitHub organization to manage tasks and stay on track. You can access our repository [here](https://github.com/hi-covid-convo/hi-covid-convo), and learn more details about the application [here](https://hi-covid-convo.github.io/#deployment). 
 
 ## Contributions
+
+### Dialogflow Chatbot
 My first task for the project was figuring out how the team was going to implement the chat-bot. After conducting research, that's when I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
 <div class="ui medium center rounded images">
   <img class="ui image" src="../images/dialogflow.png">
+</div>
+
+### Analytics Page
+I was also tasked with parsing the feedback data submitted by users to make the data easier to read. I used underscore to organize the data, and [react minimal pie chart](https://www.npmjs.com/package/react-minimal-pie-chart) to display the data as shown in the image below.
+
+<div class="ui medium center rounded images">
+  <img class="ui image" src="../images/analytics2.png">
 </div>
 
 
