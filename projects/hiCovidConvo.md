@@ -34,6 +34,13 @@ My first task for the project was figuring out how the team was going to impleme
   <img class="ui large centered image" src="../images/dialogflow.png">
 </div>
 
+### Landing/Home Page UI
+To make the landing/home page more friendly and representative of the state of Hawaii, I added an image I had taken at the UH Manoa campus.
+
+<img class="ui large centered image" src="../images/landing.png">
+
+
+
 ### Analytics Page
 I was also tasked with parsing the feedback data submitted by users to make the data easier to read. I used underscore to organize the data, and [react minimal pie chart](https://www.npmjs.com/package/react-minimal-pie-chart) to display the data as shown in the image below.
 
