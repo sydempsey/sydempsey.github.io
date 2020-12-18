@@ -14,10 +14,6 @@ labels:
 summary: Worked alongside peers to develop a Chatbot as a final project for our ICS 314 class. The web application was created to provide COVID-19 resources for HI residents.
 ---
 
-<div class="ui medium center rounded images">
-  <img class="ui image" src="../images/covid.png">
-</div>
-
 ## Project Goals
 [HiCovidConvo](https://cece-convo.xyz/) is a deployed web application that my team and I developed for our ICS 314 class. The goal of the application was to implement a chat-bot to answer COVID-19 related questions and direct users to sites where they could find more information. 
 
@@ -49,4 +45,5 @@ I was also tasked with parsing the feedback data submitted by users to make the 
 </div>
 
 
- I also gained real experience in using Semantic UI React with Meteor to create a deployed application.
+## Learning Outcome
+This final project was an accumulation of the design concepts and technology stack that I was introduced to during the class. It was a great learning experience to apply what I had learned and work collaboratively to develop the web application. My greatest take-away from the project was working collaboratively with my team to divide the tasks. With the semester being conducted online, the team needed to work harder on our communication to ensure that we were proud of our final product.
