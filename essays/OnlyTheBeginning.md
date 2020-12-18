@@ -15,7 +15,7 @@ I began this class with mixed feelings; eager to gain more insight into the care
 
 
 ## Efficient Project Management
-<img class="ui medium right floated image" src="../images/space.png">
+<img class="ui medium right floated image" src="../images/project.png">
 When working with a team, it can become difficult to keep track of everyone’s progress and manage what still needs to be worked on. The unorganization can lead to confusion and usually ends with the team scrambling to meet the deadline. Over the past semester, I was introduced to Issue Driven Project Management. This approach breaks down large projects into smaller issues and makes the entire development process more easily manageable. For the final project, breaking up the work into issues allowed my team to visualize all of our tasks, and keep track of our progress. Assigning tasks via a project board allowed my team to hold each other accountable and ensure that features we planned to implement were not lost between the cracks. The project board significantly simplified the organization of the project and set up our team to work efficiently. Moving forward, I will definitely implement Issue Driven Management for team projects. This is one of the best methods I have come across for all team members to visually see the progress of a project and keep track of current, completed, and future tasks. 
 
 
