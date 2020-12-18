@@ -20,7 +20,7 @@ summary: Worked alongside peers to develop a Chatbot as a final project for our 
 ## Development
 The application was implemented using [Semantic UI](https://semantic-ui.com/) React with Meteor for the front-end. The database was managed using MongoDB, and the chat-bot was created through the use of Google's Cloud Service, [Dialogflow](https://cloud.google.com/dialogflow/docs). 
 
-Our team worked collaboratively by using a GitHub organization to manage tasks and stay on track. You can access our repository [here](https://github.com/hi-covid-convo/hi-covid-convo), and learn more details about the application [here](https://hi-covid-convo.github.io/#deployment). 
+Our team worked collaboratively by using a GitHub organization to manage tasks and stay on track. You can access our repository [here](https://github.com/hi-covid-convo/hi-covid-convo), and learn more details about the application [here](https://hi-covid-convo.github.io). 
 
 ## Contributions
 
