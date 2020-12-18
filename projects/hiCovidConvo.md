@@ -25,7 +25,7 @@ Our team worked collaboratively by using a GitHub organization to manage tasks a
 ## Contributions
 
 ### Dialogflow Chatbot
-My first task for the project was figuring out how the team was going to implement the chat-bot. While conducting research, my team and I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
+My first task for the project was figuring out how the team was going to implement the chat-bot. While conducting research, my team and I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide. By the end of the project, the chat-bot was able to answer 50 different questions.
 
 <img class="ui large centered image" src="../images/dialogflow.png">
 
