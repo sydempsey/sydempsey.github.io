@@ -18,7 +18,7 @@ summary: Worked alongside peers to develop a Chatbot as a final project for our 
 [HiCovidConvo](https://cece-convo.xyz/) is a deployed web application that my team and I developed for our ICS 314 class. The goal of the application was to implement a chat-bot to answer COVID-19 related questions and direct users to sites where they could find more information. 
 
 ## Development
-The application was implemented using [Semantic UI](https://semantic-ui.com/) React with Meteor for the front-end. The database was managed using MongoDB, and the chat-bot was created through the use of Google's Cloud Service, [Dialogflow](https://cloud.google.com/dialogflow/docs). 
+The application was implemented using [Semantic UI React](https://react.semantic-ui.com/) with a[Meteor](https://www.meteor.com/) platform. The database was managed using MongoDB, and the chat-bot was created through the use of Google's Cloud Service, [Dialogflow](https://cloud.google.com/dialogflow/docs). 
 
 Our team worked collaboratively by using a GitHub organization to manage tasks and stay on track. You can access our repository [here](https://github.com/hi-covid-convo/hi-covid-convo), and learn more details about using the application [here](https://hi-covid-convo.github.io). 
 
