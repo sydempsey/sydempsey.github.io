@@ -30,15 +30,15 @@ Our team worked collaboratively by using a GitHub organization to manage tasks a
 
 ### Dialogflow Chatbot
 My first task for the project was figuring out how the team was going to implement the chat-bot. After conducting research, that's when I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
-<div class="ui medium center rounded images">
-  <img class="ui image" src="../images/dialogflow.png">
+<div class="ui large center rounded images">
+  <img class="ui large centered image" src="../images/dialogflow.png">
 </div>
 
 ### Analytics Page
 I was also tasked with parsing the feedback data submitted by users to make the data easier to read. I used underscore to organize the data, and [react minimal pie chart](https://www.npmjs.com/package/react-minimal-pie-chart) to display the data as shown in the image below.
 
-<div class="ui medium center rounded images">
-  <img class="ui image" src="../images/analytics2.png">
+<div class="ui images">
+  <img class="ui large centered image" src="../images/analytics2.png">
 </div>
 
 
