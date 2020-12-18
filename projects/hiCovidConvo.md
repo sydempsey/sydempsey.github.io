@@ -26,9 +26,9 @@ Our team worked collaboratively by using a GitHub organization to manage tasks a
 
 ### Dialogflow Chatbot
 My first task for the project was figuring out how the team was going to implement the chat-bot. After conducting research, that's when I came across Dialogflow, and knew that it would provide the necessary functionality we needed. I created the agent, and worked alongside my partners in creating the training phrases and responses the chat-bot would provide.
-<div class="ui large center rounded images">
-  <img class="ui large centered image" src="../images/dialogflow.png">
-</div>
+
+<img class="ui large centered image" src="../images/dialogflow.png">
+
 
 ### Landing/Home Page UI
 To make the landing/home page more friendly and representative of the state of Hawaii, I added an image I had taken at the UH Manoa campus.
@@ -40,9 +40,7 @@ To make the landing/home page more friendly and representative of the state of H
 ### Analytics Page
 I was also tasked with parsing the feedback data submitted by users to make the data easier to read. I used underscore to organize the data, and [react minimal pie chart](https://www.npmjs.com/package/react-minimal-pie-chart) to display the data as shown in the image below.
 
-<div class="ui images">
-  <img class="ui large centered image" src="../images/analytics2.png">
-</div>
+<img class="ui large centered image" src="../images/analytics2.png">
 
 
 ## Learning Outcome
