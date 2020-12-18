@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Choosing Lifelong Learning 
-I began this class with mixed feelings; eager to gain more insight into the career path I decided on, but also nervous about my lack of experience. I was worried that there was too much to learn and too little time. Yet, the very thing I was afraid of is what now motivates me as a career in software engineering is reliant on constantly learning. I now understand that success in this field is dependent on many of the concepts we covered in class.
+I began this class with mixed feelings; eager to gain more insight into the career path I decided on, but also nervous about my lack of experience. I was worried that there was too much to learn and too little time. Yet, the very thing I was afraid of is what now motivates me as a career in software engineering is reliant on constantly learning. I now understand that success in this field is dependent on correctly applying many of the concepts we covered in class.
 
 
 ## Efficient Project Management
