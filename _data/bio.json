@@ -6,13 +6,15 @@
     "email": "dempseys@hawaii.edu",
     "phone": "808-463-8606",
     "website": "https://sydempsey.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2021, and plan to find work as a software engineer.",
+    "summary": "Welcome to my portfolio! I'm Sydney Dempsey, a passionate and driven Software Engineer with a Bachelor's degree in Computer Engineering from the University of Hawaii at Manoa. During my time at the university, I served as President of the HKN Delta Omega Chapter and was honored as a Regents Scholar.
+
+                My journey into the world of programming began in the 8th grade, and it was love at first sight when I was introduced to C. This early passion fueled my decision to pursue a career in Software Engineering. I started as a Front End Software Engineer at DataHouse Consulting, where I gained valuable experience with React and Vue.js.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "Cookeville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Tennessee"
     },
     "profiles": [
       {
@@ -22,7 +24,7 @@
       },
       {
         "network": "linkedin",
-        "username": "sydney-dempsey",
+        "username": "sydneydempsey",
         "url": "https://www.linkedin.com/in/sydneydempsey/"
       }
     ]
@@ -55,6 +57,7 @@
         "C++",
         "Java",
         "Javascript",
+        "Typescript",
         "Python",
         "SQL"
       ]
@@ -73,10 +76,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2021)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2017-08-19",
-      "endDate": "Present",
+      "endDate": "2021-05-14",
       "gpa": "",
       "courses": [
       ]
@@ -88,11 +91,12 @@
       "position": "Software Engineer",
       "website": "",
       "startDate": "2020-08-24",
-      "endDate": "Present",
+      "endDate": "2024-07-29",
       "highlights": [
-        "Quality assurance support on LumiSight apps",
-        "Assisting on COVID-related projects",
-        "Interned from January to August 2020"
+        "Collaborated closely with the project manager and UI/UX designer on the Figma mockups to ensure alignment of technical solutions with business objectives.",
+        "Coordinated with the back-end developer to integrate the RESTful API and ensure seamless data flow between the front-end and back-end systems.",
+        "Utilized modern front-end frameworks such as React, Angular, and Vue.js to create responsive and user-friendly web-applications.",
+        "Contributed to the development and maintenance of five mobile applications built for the Hawaii Department of Education, each consisting of approximately 12 screens and 10 custom components and modals.",
       ]
     },
     {
@@ -114,7 +118,7 @@
       "website": "https://hknhawaii.weebly.com/",
       "position": "President",
       "startDate": "2020-05-15",
-      "endDate": "Present",
+      "endDate": "2021-05-14",
       "highlights": [
         "Support events hosted by the CoE",
         "Professional development",
@@ -125,7 +129,7 @@
       "organization": "IEEE",
       "position": "Secretary",
       "startDate": "2020-05-20",
-      "endDate": "Present",
+      "endDate": "2021-05-14",
       "highlights": [
         "Organize events for members",
         "Plan and coordinate workshops"
@@ -135,13 +139,13 @@
   "awards": [
     {
       "title": "Regents Scholarship",
-      "date": "2017-Present",
+      "date": "2017-2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen who completed a rigorous high school curriculum and demonstrated leadership qualities."
     },
     {
       "title": "Harriet Bouslog Scholarship",
-      "date": "2018-Present",
+      "date": "2018-2021",
       "awarder": "ILWU Local 142",
       "summary": "A renewable scholarship given to UH students who have had a family member in the ILWU."
     }
